@@ -1,4 +1,4 @@
-/* eslint-disable no-undef */
+/* test*/
 const {
     crearUsuario,
 	agregarMetodoPrototype,
